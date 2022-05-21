@@ -1,4 +1,4 @@
-# Gladkikh_qa
+# Этот репозиторий для хранения домашних работ по курсу ручного тестирования
 [Пример моих тест-кейсов](https://docs.google.com/spreadsheets/d/1cD5LWHOd9Kdj9C4Szw35Hi_TAWft7N6Sp43QjBAMcU0/edit?usp=sharing)
 
 ---
